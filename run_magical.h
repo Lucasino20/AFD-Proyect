@@ -7,7 +7,7 @@
 #include "AFD.h"
 
 void run_magic(){
-    int T_;
+    int T_; //
     int N;
     int final;
     cin >> T_;
